@@ -1,5 +1,9 @@
 # 77th Joint Special Operations Command (77th JSOC)
 
+<div align="center">
+    <img src="https://i.imgur.com/WX1bEqJ.jpeg" align="center" width="600">
+</div>
+
 ## Introduction
 
 Welcome to the 77th JSOC! The unit was founded in late 2013 by a small group of players looking for more than just the ordinary gameplay provided by most servers. 
