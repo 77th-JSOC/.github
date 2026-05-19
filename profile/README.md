@@ -1,7 +1,7 @@
 # 77th Joint Special Operations Command (77th JSOC)
 
 <div align="center">
-  <img src="https://i.imgur.com/WX1bEqJ.jpeg" alt="77th JSOC" width="600">
+  <img src="https://i.imgur.com/sOm8jo9.jpeg" alt="77th JSOC" width="600">
 </div>
 
 ## Overview
